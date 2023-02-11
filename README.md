@@ -1,5 +1,4 @@
 # Print-current-date-and-time-in-Python.
-..
   
       import datetime
       # Print date and time
